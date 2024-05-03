@@ -12,16 +12,21 @@ Sketching and painting have long been recognized as valuable tools for preservin
   - Download Converted Images: Once the conversion is complete, users have the option to download the transformed images for further use or sharing.
 
 # Definitions:
-  *Sketching: The act of creating a rough, preliminary drawing or outline, typically done with a pencil or pen.
-  *Painting: The application of color or pigment to a surface, often using brushes, fingers, or other tools.
-  *Art Therapy: A form of psychotherapy that utilizes art-making as a therapeutic technique, allowing individuals to express emotions, process trauma, and explore  
-  self-discovery through artistic creation.
+  - Sketching: The act of creating a rough, preliminary drawing or outline, typically done with a pencil or pen.
+  
+  - Painting: The application of color or pigment to a surface, often using brushes, fingers, or other tools.
+  
+  - Art Therapy: A form of psychotherapy that utilizes art-making as a therapeutic technique, allowing individuals to express emotions, process trauma, and explore 
+                 self-discovery through artistic creation.
 
 # Technologies Used:
-  *Python
-  *Streamlit
-  *OpenCV
-  *NumPy
+  - Python
+    
+  - Streamlit
+    
+  - OpenCV
+    
+  - NumPy
 
 # Getting Started:
   To run Sketchify on your local machine, follow these steps:
