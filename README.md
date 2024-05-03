@@ -5,9 +5,11 @@ Sketchify is a web application designed to convert images into sketches using Py
 Sketching and painting have long been recognized as valuable tools for preserving ideas, recollections, and thoughts. Beyond mere expression, engaging with art, whether through creating or experiencing it, offers numerous well-being advantages, including reduced stress and improved critical thinking abilities. Specifically, drawing, sketching, and painting have been linked to increased creativity, memory enhancement, and stress alleviation. These benefits underscore the importance and relevance of exploring artistic mediums in various disciplines.
 
 # Project Features:
-  *Image Conversion: Users can upload images and convert them into either watercolor sketches or pencil sketches.
-  *User-Friendly Interface: The web application is designed with simplicity in mind, ensuring ease of use for users of all skill levels.
-  *Download Converted Images: Once the conversion is complete, users have the option to download the transformed images for further use or sharing.
+  - Image Conversion: Users can upload images and convert them into either watercolor sketches or pencil sketches.
+  
+  - User-Friendly Interface: The web application is designed with simplicity in mind, ensuring ease of use for users of all skill levels.
+  
+  - Download Converted Images: Once the conversion is complete, users have the option to download the transformed images for further use or sharing.
 
 # Definitions:
   *Sketching: The act of creating a rough, preliminary drawing or outline, typically done with a pencil or pen.
